@@ -1,0 +1,118 @@
+a {
+    color: black;
+}
+
+a:hover {
+    border-bottom: 2px solid #5094F2;
+    text-decoration: none;
+    padding-bottom: 15px;
+}
+
+.km_filter_md_div_header {
+    width: 1150px;
+}
+
+.km_filter_md_div_img {
+    width: 180px;
+    margin-top: 20px;
+    font-size: 27px;
+    word-spacing: 15px;
+    font-family: Corbel;
+}
+
+.km_filter_md_div_text {
+   margin-top: -31px;
+    word-spacing: 15px;
+    font-family: Corbel;
+}
+
+.km_filter_md_div_body-img {
+    margin-top: 15px;
+    margin-bottom: 300px;
+}
+
+.km_filter_md_div_body-text {
+    margin-top: -350px;
+    margin-left: 700px;
+    color: white;
+    font-size: 18px;
+    font-family: Corbel;
+    letter-spacing: 1px;
+}
+
+.km-filter-md-div-body-p {
+    font-size: 25px;
+}
+
+.km-filter-md-div-a-btn {
+    height: 40px;
+    margin-left: 720px;
+    font-size: 18px;
+    font-family: Corbel;
+}
+
+.km_filter_md_bottom-img {
+    text-align: center;
+    color: #A1A1A1;
+    font-family: Corbel;
+    font-size: 16px;
+    width: 1150px;
+    margin-bottom: 25px;
+}
+
+.km-filter-md-div-bottom-img-p-1 {
+    text-align: center;
+    color: #4F94F1;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.km-filter-md-div-bottom-img-p-2 {
+    text-align: center;
+    color: #4F94F1;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.km-filter-md-div-bottom-img-p-3 {
+    text-align: center;
+    color: #4F94F1;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.km_filter_md_div_bottom {
+    margin-top: 620px;
+    margin-left: 60px;
+}
+
+.km-filter-md-div-bottom-p-1 {
+   color: #A1A1A1;
+    font-family: Corbel;
+    font-size: 32px; 
+}
+
+.km-filter-md-bottom-div-text-p-1 {
+    margin-left: 300px;
+    margin-top: -185px;
+    color: #A1A1A1;
+    font-family: Corbel;
+    font-size: 18px;
+    line-height: 14px;
+}
+
+.km_filter_md_div_bottom_div_text_div_p {
+    margin-left: 300px;
+    font-family: Corbel;
+    font-size: 16px;
+    color: #A1A1A1;
+    line-height: 14px;
+}
+
+.km_filter_md_div_bottom_div_text_div_text-bottom {
+    margin-left: 415px;
+    margin-top: 50px;
+    font-family: Corbel;
+    font-size: 16px;
+    color: #A1A1A1
+}

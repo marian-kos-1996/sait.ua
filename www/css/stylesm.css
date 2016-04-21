@@ -1,0 +1,128 @@
+.visible-sm {
+    min-width: 641px;
+}
+
+.km_filter_sm_div_body-img {
+    margin-bottom: 50px;
+}
+
+.km_filter_sm_div_body-text {
+    margin-left: 300px;
+    margin-top: -180px;
+}
+
+.km_filter_sm_div_body-text {
+    color: white;
+    font-family: Corbel;
+    letter-spacing: 1px;
+}
+
+.km-filter-sm-div-body-p {
+    font-size: 16px;
+}
+
+.km-filter-sm-div-a-btn {
+    margin-left: 300px;
+}
+
+.km_filter_sm_bottom-img {
+    width: 640px;
+}
+
+.km_filter_sm_div_bottom-img_div_img-text-1 {
+    margin-left: 220px;
+    margin-top: -150px;
+    margin-bottom: 80px;
+    font-family: Corbel;
+    color: #A1A1A1;
+    font-size: 18px;
+}
+
+.km_filter_sm_div_bottom-img_div_img-text-2 {
+   margin-left: 220px; 
+    margin-top: -150px;
+    margin-bottom: 80px;
+    font-family: Corbel;
+    color: #A1A1A1;
+    font-size: 18px;
+}
+
+.km_filter_sm_div_bottom-img_div_img-text-3 {
+  margin-left: 220px;
+    margin-top: -150px;
+    margin-bottom: 80px;
+    font-family: Corbel;
+    color: #A1A1A1;
+    font-size: 18px;
+}
+
+.km_filter_sm_bottom-img_1 {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+.km_filter_sm_bottom-img_2 {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+.km_filter_sm_bottom-img_3 {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 25px;
+    margin-left: 50px;
+}
+
+.km-filter-sm-div-bottom-img-text-p-1 {
+    color: #4F94F1;
+    font-size: 25px;
+    font-family: Corbel;
+}
+
+.km-filter-sm-div-bottom-img-text-p-2 {
+    color: #4F94F1;
+    font-size: 25px;
+    font-family: Corbel;
+}
+
+.km-filter-sm-div-bottom-img-text-p-3 {
+    color: #4F94F1;
+    font-size: 25px;
+    font-family: Corbel;
+}
+
+.km_filter_sm_div_bottom_div_img {
+    margin-left: 300px;
+}
+
+.km-filter-sm-div-bottom-p-1 {
+    margin-left: 280px;
+    font-family: Corbel;
+    font-weight: bold;
+    font-size: 25px;
+    color: #A1A1A1;
+    
+}
+
+.km_filter_sm_div_bottom_div_text_div_p {
+    margin-left: 200px;
+    font-family: Corbel;
+    color: #A1A1A1;
+    margin-bottom: 40px;
+}
+
+.km-filter-sm-bottom-div-text-p-1 {
+    margin-left: 200px;
+    font-family: Corbel;
+    font-weight: bold;
+    font-size: 18px;
+    color: #A1A1A1;
+}
+
+.km_filter_sm_div_bottom_div_text_div_text-bottom {
+   margin-left: 210px; 
+    font-size: 18px;
+    font-family: Corbel;
+    color: #A1A1A1;
+}
