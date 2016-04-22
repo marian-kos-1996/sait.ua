@@ -9,7 +9,7 @@ a:hover {
 }
 
 .km_filter_md_div_header {
-    width: 1150px;
+  /*  width: 1150px; як ти робиш респонсів нах ти задаєш статичну ширну */
 }
 
 .km_filter_md_div_img {
@@ -28,7 +28,7 @@ a:hover {
 
 .km_filter_md_div_body-img {
     margin-top: 15px;
-    margin-bottom: 300px;
+
 }
 
 .km_filter_md_div_body-text {
@@ -56,7 +56,6 @@ a:hover {
     color: #A1A1A1;
     font-family: Corbel;
     font-size: 16px;
-    width: 1150px;
     margin-bottom: 25px;
 }
 
@@ -82,8 +81,12 @@ a:hover {
 }
 
 .km_filter_md_div_bottom {
-    margin-top: 620px;
+   /* margin-top: 620px;  Не можна таке робити якщо вже хотів відступ то давай margin-bottom верхньому блоку */
     margin-left: 60px;
+}
+
+.mr-block-with-images{
+    margin-bottom: 100px;
 }
 
 .km-filter-md-div-bottom-p-1 {
